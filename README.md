@@ -1,4 +1,4 @@
-# *BigData_Final_Project*
+# **BigData_Final_Project**
 
 ### Using StyleGAN Image Encoder for Face Editing.
 
